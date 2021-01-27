@@ -5,4 +5,4 @@
 
 ## Branches 
 - master / MVP패턴 적용 전   
-- mvp_apply / MVP패턴 적용 후 
+- mvp_apply / MVP패턴 적용 후 (작업중)
