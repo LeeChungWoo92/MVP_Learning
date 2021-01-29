@@ -1,8 +1,8 @@
-package com.example.mvp_learning.repository
+package com.example.mvp_learning.source
 
 import com.example.mvp_learning.model.NaverMovie
 
-interface MainRepository {
+interface MainRemoteDataSource {
     fun searchMovies(
         query: String,
         success: (NaverMovie) -> Unit,
